@@ -10,11 +10,11 @@ O documento desenvolvido tem como principal objetivo fazer a análise da tipogr�
 A atividade foi feita analisando dois sites, considerados respectivamente "bom" e "ruim" e feita uma análise de tipográfia de ambos, sendo estes: 
 
 ### ✅O Site Bom✅
-Link de acesso ao site: https://www.awwwards.com/ 
+Link de acesso ao site: https://www.awwwards.com/ <br>
 Um site que permite a avaliação de diferentes sites e a criação de um ranking entre eles, sendo um site mais ou menos famoso, mas não de uma empresa grande, com o site possuindo grande parte dos elementos estudados em aula para boa entrega de informações ao usuário, possuindo bom uso de cor, contraste e outros.
 
 ### ❌O Site Ruim❌
-Link de acesso ao site: http://www2.pnwx.com/
+Link de acesso ao site: http://www2.pnwx.com/ <br>
 Um site de uma grande empresa norte-americana avaliada em milhões de dólares que envia equipamentos de radiográfia para uso medicinal, possuindo graves problemas para ler as informações presentes e má formatação.
 
 ## 💡Objetivo da Atividade💡
